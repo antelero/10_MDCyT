@@ -1,0 +1,10 @@
+Con las variables de esta semana, las áreas que se agrupan son:
+Se pueden agrupar los sectores que presentan una relación espacial semejante con el cauce del río Paraná, su ubicación dentro o fuera de la franja de 500 metros y la presencia o ausencia de agua detectada en la escena satelital. Así, se pueden distinguir sectores próximos al cauce con agua observada, sectores de la franja donde no se detecta agua y sectores más alejados del cauce. Estos grupos representan condiciones espaciales similares según las capas disponibles, sin que eso implique que todos los lugares de un grupo tengan necesariamente el mismo comportamiento frente a una inundación.
+
+Cuando el río sube, de esos grupos se lee:
+Con las capas disponibles se puede observar la relación entre el cauce, la franja de 500 metros y la distribución del agua detectada en la fecha de la escena. Sin embargo, todavía no se puede determinar qué sectores quedarían inundados ante una crecida de 2, 4 o 6 metros, porque falta incorporar información sobre la elevación y las características del terreno. Por lo tanto, el mapa permite describir la situación espacial observada, pero no simular distintos niveles de inundación.
+
+Dos lugares son del mismo tipo cuando:
+Dos lugares serían del mismo tipo si presentan una combinación semejante de características: la misma relación con el cauce, la misma condición respecto de la franja de 500 metros y el mismo estado de presencia o ausencia de agua en la escena. Por ejemplo, dos sectores dentro de la franja, próximos al cauce y sin agua detectada podrían integrar un mismo grupo, aunque estén separados geográficamente. El criterio es la semejanza entre las capas, no la contigüidad de los polígonos ni la pertenencia a una misma jurisdicción.
+
+Con el cauce, la franja de 500 m y el agua de esta escena, estos lugares son del mismo tipo porque presentan una relación semejante con el cauce, la misma condición respecto de la franja y una condición similar de presencia o ausencia de agua. El río que sube en +2 m, +4 m y +6 m todavía no se lee: falta incorporar información del terreno
