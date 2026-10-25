@@ -1,0 +1,5 @@
+grupo,n_hex,cota_media,pendiente_media,aporte_log_max,hand_mediana,adentro_2m,adentro_4m,adentro_6m,familias,uso_mas_comun
+0,1298,12.928,0.013,1.021,0.59,0.849,0.958,0.981,8958.188,herbaceo_inundable
+1,1967,13.774,0.014,-0.129,1.322,0.626,0.811,0.881,12811.624,herbaceo_inundable
+2,634,50.074,0.035,0.59,6.248,0.055,0.249,0.446,6560.213,agropecuario
+3,663,79.624,0.032,-0.36,20.348,0.0,0.0,0.0,4017.974,agropecuario
